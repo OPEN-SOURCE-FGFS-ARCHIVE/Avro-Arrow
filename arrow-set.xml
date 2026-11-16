@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <PropertyList include="arrow-jsbsim-cnf.xml"> -->
+<PropertyList include="arrow-yasim-cnf.xml">
+
+  <sim>
+    <description>Avro CF105 Arrow</description>
+    <author>Emmanuel BARANGER (3D/FDM), StuartC mods</author>
+  </sim>
+
+</PropertyList>
+
